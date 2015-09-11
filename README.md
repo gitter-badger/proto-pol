@@ -1,5 +1,7 @@
 # Foundation Compass Template
 
+[![Join the chat at https://gitter.im/kainio/proto-pol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kainio/proto-pol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The easiest way to get started with Foundation + Compass.
 
 ## Requirements
